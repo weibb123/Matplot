@@ -2,9 +2,9 @@
 
 ## Tutorial of basic matplot 
 <br> These are the notes I took while learning Matplotlib </br>
-Load Data
-Plot data
-Histogram
-Pie-Chart
-Line-graph 
+<br> Load Data </br>
+<br>Plot data </br>
+<br>Histogram</br>
+<br>Pie-Chart</br>
+<br>Line-graph </br>
 
