@@ -1,7 +1,7 @@
 # Matplot Tutorial
 
 ## Tutorial of basic matplot 
-These are the notes I took while learning Matplotlib
+<br> These are the notes I took while learning Matplotlib </br>
 Load Data
 Plot data
 Histogram
